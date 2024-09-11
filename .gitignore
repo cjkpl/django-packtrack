@@ -1,0 +1,25 @@
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
+.private*
+
+# Backup files # 
+*.bak 
+
+# Python # 
+*.py[cod] 
+*$py.class
+
+dist
+build
+*.egg-info
+# images
+original_images
+.coverage
+.ruff_cache
+
+.DS_Store
