@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "django-packtrack"
-version = "24.9.1"
+version = "24.9.2"
 description = "A Django app for monitoring outdated packages and dependencies."
 readme = "README.md"
 authors = [{name = "Grzegorz Krol", email = "grze.krol@proton.me"}]
