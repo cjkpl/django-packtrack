@@ -12,8 +12,11 @@ The app serves to:
 
 ## Installation
 
+Install the package, as well as the required dependency
+
 ```
 pip install django-packtrack
+pip install django-oauth-toolkit
 ```
 
 ## Installed apps and dependencies
